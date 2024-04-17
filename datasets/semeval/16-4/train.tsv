@@ -1,0 +1,33 @@
+sentence	label	e1	e2
+The risks of this procedure include anesthesia complications (especially General), post-operative difficulty breathing, and <e1> sore throat </e1> from <e2> intubation </e2> .	1	sore throat	intubation
+Two years ago, President George W. Bush ordered the <e1> activation </e1> by the <e2> end </e2> of of a system capable of defending the United States against a missile attack by a terrorist group or an unfriendly rogue state such as North Korea.	0	activation	end
+In the months leading up to trade negotiations, estimates of the <e1> economic gains </e1> from <e2> trade liberalization </e2> suddenly become newsworthy.	1	economic gains	trade liberalization
+You can see the <e1> wrinkles </e1> from 'Meredith's' <e2> face </e2> and you can even understand by looking the series that she is really about same age as 'Bailey'.	0	wrinkles	face
+If governments were once content to passively realize the <e1> benefits </e1> from <e2> funding basic research </e2> , the determination to be part of the knowledge-based economy has driven OECD countries to extract greater direct benefits from publicly funded research.	1	benefits	funding basic research
+Sudden <e1> death </e1> from <e2> inhalation </e2> of petroleum distillates is well recognised in misuses of volatile substances.	1	death	inhalation
+The troubled company is still feeling <e1> aftershocks </e1> after its devastating <e2> withdrawal </e2> of the pain medication Vioxx six months ago.	1	aftershocks	withdrawal
+During periods of wide <e1> blood sugar fluctuations </e1> and after any <e2> change </e2> in insulin dose, the blood sugar must also be measured during the night.	0	blood sugar fluctuations	change
+Eye <e1> discomfort </e1> from this <e2> staring effect </e2> is exacerbated by low humidity.	1	discomfort	staring effect
+<e1> Continuous improvement </e1> starts with the <e2> measuring </e2> of the process performance, and the instigation of a robust process for reviewing further changes logically and quickly.	0	Continuous improvement	measuring
+Gurra Krantz, skipper of the still leading yacht SEB reports some <e1> frustration </e1> after <e2> yesterday's exhilarating rides </e2> .	0	frustration	yesterday's exhilarating rides
+The <e1> spiciness </e1> comes from small <e2> capsaicin glands </e2> located between the pepper's outside skin and the white ribs inside.	1	spiciness	capsaicin glands
+And because of a last minute <e1> collapse </e1> from <e2> top </e2> to bottom - what would be and should be a perfect season to this point is just another year.	0	collapse	top
+<e1> Driving </e1> with <e2> sleep deprivation </e2> can have similar effects as driving under the influence.	0	Driving	sleep deprivation
+The <e1> pollution </e1> in rain comes from <e2> mercury air pollution </e2> from coal-fired power plants and other industries.	1	pollution	mercury air pollution
+He derives great joy and <e1> happiness </e1> from <e2> cycling </e2> .	1	happiness	cycling
+Women may experience <e1> anxiety </e1> from the <e2> time </e2> they first learn about the breast abnormality.	0	anxiety	time
+Alabama has since enacted legislation, allowing <e1> death </e1> by <e2> lethal injection </e2> as an alternative choice to death in the electric chair.	1	death	lethal injection
+The check given by Charles V to the advance of the Ottoman power along the African coast made him appear to the world as the liberator of the Christians and the <e1> terror </e1> of the <e2> infidels </e2> , and gave him such prestige that Francis felt obliged to get all the advantage possible out of his alliance.	0	terror	infidels
+Someone once said that <e1> progress </e1> comes from <e2> dissatisfaction </e2> .	1	progress	dissatisfaction
+It was also felt necessary at this time to draw up a similar document, dealing not with the prevention of <e1> marine pollution </e1> by <e2> dumping </e2> , but instead with the prevention of marine pollution by discharges of dangerous substances from land-based sources, watercourses or pipelines.	1	marine pollution	dumping
+<e1> Rain </e1> comes from <e2> evaporated seawater </e2> , transferring not just water but the solar energy that took it from the sea.	0	Rain	evaporated seawater
+Their chemical <e1> activation </e1> by <e2> light </e2> (halogen, plasma, lasers, etc.) enhances their efficiency by reducing exposure time and number of appointments.	1	activation	light
+Two sides search for the naked truth in the <e1> fight </e1> over a <e2> painting </e2> on display in a Florida shop.	1	fight	painting
+The good friar was insistent on both celibacy and <e1> abstinence </e1> from <e2> laughter </e2> .	0	abstinence	laughter
+The randomized hypertensive ABCD study demonstrated a <e1> decrease </e1> in myocardial infarction with ACE inhibitors and a decrease in overall mortality with aggressive <e2> blood pressure control </e2> .	1	decrease	blood pressure control
+Myles and Simpson also identify <e1> defensive behaviour </e1> from <e2> learners </e2> like lashing out verbally or physically or threatening the educators or other learners and withdrawing from others emotionally or physically.	0	defensive behaviour	learners
+Ray Parlour shows his <e1> frustration </e1> after Middlesbrough's <e2> defeat </e2> .	1	frustration	defeat
+At normal room temperatures, <e1> flammable liquids </e1> can give off enough <e2> vapour </e2> to form burnable mixtures with air.	0	flammable liquids	vapour
+Saunders felt a resurgence of the <e1> panic </e1> from this <e2> morning </e2> when he'd regained consciousness in the minefield.	0	panic	morning
+Delay and procrastination set you up for <e1> <e2> frustration </e2> </e1> after frustration.	0	<e2> frustration </e2>	frustration
+Nausea is the sensation of unease and <e1> discomfort </e1> from the <e2> stomach </e2> , with the sufferers feeling that they may vomit.	0	discomfort	stomach
