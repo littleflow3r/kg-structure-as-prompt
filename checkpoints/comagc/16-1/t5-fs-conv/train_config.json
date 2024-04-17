@@ -1,0 +1,16 @@
+{
+  "seed": 203,
+  "input_path": "datasets/comagc/16-1",
+  "checkpoint_path": "checkpoints/comagc/16-1/t5-fs-conv",
+  "model_name_or_config_path": "t5-base",
+  "max_length": 256,
+  "is_full": 0,
+  "train_batch_size": 8,
+  "eval_batch_size": 1,
+  "epoch": 20,
+  "freeze_lm_emb": false,
+  "lr": 3e-05,
+  "warmup_proportion": 0.06,
+  "save_result": true,
+  "multi_gpu": false
+}
