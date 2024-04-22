@@ -11,7 +11,7 @@ for k in "mp-1" "mp-2" "mp-3" "mp-4" "mp-5"; do #metapath
 # for k in "cnein-1" "cnein-2" "cnein-3" "cnein-4" "cnein-5"; do #common neighbors nodes
     input_path="datasets/${mtask}/${k}"
     checkpoint_path="checkpoints/${mtask}/${k}/${tag_checkpoint}"
-    python codes/prompt_trainer_t5.py \
+    python src/prompt_trainer_t5.py \
     --input_path ${input_path} \
     --checkpoint_path ${checkpoint_path} \
     --model_name_or_config_path ${model_name_or_config_path} \
