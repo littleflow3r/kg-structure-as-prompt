@@ -1,0 +1,9 @@
+torch==1.12.1+cu102
+transformers==4.33.2
+peft==0.7.1
+jsonlines==4.0.0
+numpy==1.21.2
+tqdm==4.62.3
+scikit-learn==1.0.2
+datasets==2.16.1
+evaluate==0.4.1
