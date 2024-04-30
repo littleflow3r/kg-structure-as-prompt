@@ -7,3 +7,4 @@ tqdm==4.62.3
 scikit-learn==1.0.2
 datasets==2.16.1
 evaluate==0.4.1
+pandas==1.4.2
