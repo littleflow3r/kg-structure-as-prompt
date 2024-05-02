@@ -3,8 +3,6 @@
 
 including the [datasets](datasets/), [codes](src/), and an [appendix](other-materials/Appendix.pdf) containing the hyperparameters settings and other technical details.
 
-![Overview of KG Structure as Prompt](framework.png)
-
 #### Requirements
 ```pip install -r requirements.txt```
 
@@ -12,3 +10,5 @@ including the [datasets](datasets/), [codes](src/), and an [appendix](other-mate
 Conventional fine-tuning: `bash run_conv.sh`
 
 (complete readme to-be-added)
+
+![](framework.png)
