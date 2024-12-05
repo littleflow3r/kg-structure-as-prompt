@@ -1,5 +1,5 @@
-# Supplementary Materials (ISWC 2024 paper): 
-### KG Structure as Prompt: Improving Small Language Models Capabilities for Knowledge-based Causal Discovery
+# Supplementary Materials (ISWC 2024): 
+## KG Structure as Prompt: Improving Small Language Models Capabilities for Knowledge-based Causal Discovery
 
 Including the [datasets](datasets/), [codes](src/), and an [appendix](other-materials/Appendix.pdf) containing the hyperparameters settings and other technical details. Part of the source code used for the experiments relies on proprietary libraries and therefore cannot be released.
 
